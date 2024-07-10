@@ -2,7 +2,8 @@
 
 
 ▪ ⚡ Tech Recruiter com 10 anos de experiência para diversas posições e níveis de senioridade                                                                                     
-▪ 🎓 Graduado em Administração de Recursos Humanos com Pós-Graduado em Gestão Estratégica de Pessoas                                                                                  ▪ ❤️ Apaixonado por Talent Acquisition, e por conectar pessoas                                                                                                         
+▪ 🎓 Graduado em Administração de Recursos Humanos com Pós-Graduado em Gestão Estratégica de Pessoas                                                                                
+▪ ❤️ Apaixonado por Talent Acquisition, e por conectar pessoas                                                                                                         
 ▪ 🔎 A procura dos melhores talentos                                                                                                                                   
 ▪ 👉 Segue aí. Estamos à procura de vocês!!
 
