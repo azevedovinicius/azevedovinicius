@@ -7,7 +7,7 @@
 ▪ 🔎 A procura dos melhores talentos                                                                                                                                   
 ▪ 👉 Segue aí. Estamos à procura de vocês!!
 
-✅ Perfis mais trabalhados: Dev Back-End, Front-End, Fullstack, em diversas linguagens (PHP, .NET C#, Java, Javascript), Testes, QA, Agile Master, Projetos, Dados, Python, Mobile (IOS and Android), Inteligência Artificial, Machine Learning, Cyber Security, Flutter, Cloud, IoT, React, React Native, Infra, Suporte, Estagiários, Aprendizes, entre outras.                                    
+✅ Perfis mais trabalhados: Back-End, Front-End, Fullstack, em diversas linguagens (PHP, .NET C#, Java, Javascript), Testes, QA, Agile Master, Projetos, DBA, Dados, Big Data, Data Science, Banco de Dados, Python, BI, Mobile (IOS, Android, Kotlin, Flutter, React Native), Inteligência Artificial, Machine Learning, Cyber Security, Cloud, Agile, IoT, React, Microsserviços, DevOps, Infra, Suporte, Mecatrônica, Robótica, Estagiários, Aprendizes, entre outras.                                   
                                                                                                                     
                                                                 
 
